@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array>
+<dict>
 	<key>223</key>
 	<array>
 	  <string>http://t0.gstatic.com/images?q=tbn:ANd9GcSKTTlgqAjnHHXyNKnBqHR_z7QB-xdxVIUYBA_HY1Khi8wStjsFRmdiMzdr</string>
@@ -1082,5 +1082,5 @@
 	  <string>http://t2.gstatic.com/images?q=tbn:ANd9GcQxszoXFSn0X_nddm00n7DqP-YSgIO-nV0VRAxOwI6hkZpX7pszuxbYk5OAog</string>
 	  <string>http://img3.blogs.yahoo.co.jp/ybi/1/0d/23/benkei_777/folder/1142188/img_1142188_37187282_2%253F1191382507</string>
 	</array>
-</array>
+</dict>
 </plist>
